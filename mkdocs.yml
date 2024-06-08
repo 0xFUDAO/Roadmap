@@ -1,0 +1,15 @@
+repo_url : https://github.com/0xFUDAO/Roadmap
+site_name: FUDAO RoadMap
+site_author: FUDAO
+site_url: https://tech.c01dkit.com
+docs_dir: docs
+copyright: '2023 Content provided by FUDAO'
+
+nav:
+  - Home: index.md
+  - 开发技术: 技术开发.md
+  - 投资调研: 投资调研.md
+  - 每周分享: 每周分享.md
+  - 相关资源: 相关资源.md
+  - About: about.md
+theme: readthedocs
