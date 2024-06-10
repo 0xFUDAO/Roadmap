@@ -1,15 +1,19 @@
-repo_url : https://github.com/0xFUDAO/Roadmap
+repo_url: https://github.com/0xFUDAO/Roadmap
 site_name: FUDAO RoadMap
 site_author: FUDAO
-site_url: https://tech.c01dkit.com
+site_url:
 docs_dir: docs
-copyright: '2023 Content provided by FUDAO'
+copyright: '2024 Content provided by FUDAO'
 
 nav:
-  - Home: index.md
-  - 开发技术: 技术开发.md
-  - 投资调研: 投资调研.md
-  - 每周分享: 每周分享.md
-  - 相关资源: 相关资源.md
-  - About: about.md
+  - 学习路径: index.md    # 标准页，进入即可看到
+  - ETH: eth.md
+  - TON: ton.md
+  - Solana: solana.md
+  - MOVE: move.md
+  - NFT: nft.md
+  - ZKP: zk.md
+  - 每周分享: weekly.md    # 每月的线下或线上meetup/活动总结
+  - 相关资源: relate.md    # 其他系统学习资源链接
+
 theme: readthedocs
